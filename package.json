@@ -2,7 +2,7 @@
   "name": "react-web-development",
   "displayName": "React Web Development",
   "publisher": "aalpgiray",
-  "repository": "",
+  "repository": "https://github.com/aalpgiray/vscode-react-web-development-extension-pack.git",
   "description": "",
   "version": "0.0.1",
   "engines": {
