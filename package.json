@@ -1,0 +1,17 @@
+{
+  "name": "react-web-development",
+  "displayName": "React Web Development",
+  "publisher": "aalpgiray",
+  "repository": "",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "burkeholland.simple-react-snippets"
+  ]
+}
